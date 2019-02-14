@@ -6,7 +6,6 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Welcome Sujah...!</Text>
-        <Text>Testing the Application in Android Phone</Text>
       </View>
     );
   }
